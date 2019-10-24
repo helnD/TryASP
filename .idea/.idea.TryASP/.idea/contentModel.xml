@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\1\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\1\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_TryASP.-318780790.00" t="ExcludeRecursive" />
+    <e p="C:\Users\1\RiderProjects\TryASP" t="IncludeFlat">
+      <e p="Adder" t="IncludeRecursive">
+        <e p="Adder.csproj" t="IncludeRecursive" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="KeyChecker.cs" t="Include" />
+        <e p="KeyCheckerExtensions.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="Adder.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TryASP.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
